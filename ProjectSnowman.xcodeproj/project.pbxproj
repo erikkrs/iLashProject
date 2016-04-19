@@ -7,21 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		51A55514A700240058612396 /* Pods_ProjectSnowman.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A22B7DA1F42934B8BA38458 /* Pods_ProjectSnowman.framework */; };
+		6838C77A1CC5D14E003B91E8 /* UserVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6838C7791CC5D14E003B91E8 /* UserVC.swift */; };
+		6838C77C1CC5D161003B91E8 /* ProviderVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6838C77B1CC5D161003B91E8 /* ProviderVC.swift */; };
+		6838C77E1CC5D5B4003B91E8 /* UIViewController+Extras.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6838C77D1CC5D5B4003B91E8 /* UIViewController+Extras.swift */; };
+		68E9EB0A1CC5C62000AE916D /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68E9EB091CC5C62000AE916D /* LoginVC.swift */; };
+		68E9EB0C1CC5C62900AE916D /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68E9EB0B1CC5C62900AE916D /* RegisterVC.swift */; };
+		68E9EB0E1CC5C73000AE916D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68E9EB0D1CC5C73000AE916D /* Main.storyboard */; };
+		68E9EB101CC5C98000AE916D /* Core.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68E9EB0F1CC5C98000AE916D /* Core.swift */; };
 		68EE68201CBC92E40073802A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68EE681F1CBC92E40073802A /* AppDelegate.swift */; };
 		68EE68221CBC92E40073802A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68EE68211CBC92E40073802A /* ViewController.swift */; };
-		68EE68251CBC92E40073802A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68EE68231CBC92E40073802A /* Main.storyboard */; };
 		68EE68271CBC92E40073802A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68EE68261CBC92E40073802A /* Assets.xcassets */; };
 		68EE682A1CBC92E40073802A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68EE68281CBC92E40073802A /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1A22B7DA1F42934B8BA38458 /* Pods_ProjectSnowman.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ProjectSnowman.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D9128F89206C944A3720C68 /* Pods-ProjectSnowman.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProjectSnowman.release.xcconfig"; path = "Pods/Target Support Files/Pods-ProjectSnowman/Pods-ProjectSnowman.release.xcconfig"; sourceTree = "<group>"; };
+		6838C7791CC5D14E003B91E8 /* UserVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserVC.swift; sourceTree = "<group>"; };
+		6838C77B1CC5D161003B91E8 /* ProviderVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProviderVC.swift; sourceTree = "<group>"; };
+		6838C77D1CC5D5B4003B91E8 /* UIViewController+Extras.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extras.swift"; sourceTree = "<group>"; };
+		68E9EB091CC5C62000AE916D /* LoginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		68E9EB0B1CC5C62900AE916D /* RegisterVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
+		68E9EB0D1CC5C73000AE916D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		68E9EB0F1CC5C98000AE916D /* Core.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Core.swift; sourceTree = "<group>"; };
 		68EE681C1CBC92E40073802A /* ProjectSnowman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectSnowman.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68EE681F1CBC92E40073802A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68EE68211CBC92E40073802A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		68EE68241CBC92E40073802A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		68EE68261CBC92E40073802A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		68EE68291CBC92E40073802A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		68EE682B1CBC92E40073802A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92536E2E04E3F490CB27BB0B /* Pods-ProjectSnowman.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProjectSnowman.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ProjectSnowman/Pods-ProjectSnowman.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +45,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51A55514A700240058612396 /* Pods_ProjectSnowman.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +57,8 @@
 			children = (
 				68EE681E1CBC92E40073802A /* ProjectSnowman */,
 				68EE681D1CBC92E40073802A /* Products */,
+				8E624EDA5210C240F6CD6247 /* Pods */,
+				8AA4EF37A3E8B3E94EBA71DE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +73,37 @@
 		68EE681E1CBC92E40073802A /* ProjectSnowman */ = {
 			isa = PBXGroup;
 			children = (
+				68E9EB0D1CC5C73000AE916D /* Main.storyboard */,
+				6838C77D1CC5D5B4003B91E8 /* UIViewController+Extras.swift */,
+				68E9EB0F1CC5C98000AE916D /* Core.swift */,
+				68E9EB0B1CC5C62900AE916D /* RegisterVC.swift */,
+				68E9EB091CC5C62000AE916D /* LoginVC.swift */,
 				68EE681F1CBC92E40073802A /* AppDelegate.swift */,
 				68EE68211CBC92E40073802A /* ViewController.swift */,
-				68EE68231CBC92E40073802A /* Main.storyboard */,
 				68EE68261CBC92E40073802A /* Assets.xcassets */,
 				68EE68281CBC92E40073802A /* LaunchScreen.storyboard */,
 				68EE682B1CBC92E40073802A /* Info.plist */,
+				6838C7791CC5D14E003B91E8 /* UserVC.swift */,
+				6838C77B1CC5D161003B91E8 /* ProviderVC.swift */,
 			);
 			path = ProjectSnowman;
+			sourceTree = "<group>";
+		};
+		8AA4EF37A3E8B3E94EBA71DE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1A22B7DA1F42934B8BA38458 /* Pods_ProjectSnowman.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8E624EDA5210C240F6CD6247 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				92536E2E04E3F490CB27BB0B /* Pods-ProjectSnowman.debug.xcconfig */,
+				2D9128F89206C944A3720C68 /* Pods-ProjectSnowman.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +113,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 68EE682E1CBC92E40073802A /* Build configuration list for PBXNativeTarget "ProjectSnowman" */;
 			buildPhases = (
+				536B3B839B4451981AEF2F6F /* Check Pods Manifest.lock */,
 				68EE68181CBC92E40073802A /* Sources */,
 				68EE68191CBC92E40073802A /* Frameworks */,
 				68EE681A1CBC92E40073802A /* Resources */,
+				FD1E1183D693898D6E3930D9 /* Embed Pods Frameworks */,
+				64C0B592806E657CD5FCABE5 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -122,13 +167,61 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68E9EB0E1CC5C73000AE916D /* Main.storyboard in Resources */,
 				68EE682A1CBC92E40073802A /* LaunchScreen.storyboard in Resources */,
 				68EE68271CBC92E40073802A /* Assets.xcassets in Resources */,
-				68EE68251CBC92E40073802A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		536B3B839B4451981AEF2F6F /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		64C0B592806E657CD5FCABE5 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ProjectSnowman/Pods-ProjectSnowman-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FD1E1183D693898D6E3930D9 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ProjectSnowman/Pods-ProjectSnowman-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		68EE68181CBC92E40073802A /* Sources */ = {
@@ -136,21 +229,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				68EE68221CBC92E40073802A /* ViewController.swift in Sources */,
+				6838C77A1CC5D14E003B91E8 /* UserVC.swift in Sources */,
+				68E9EB0A1CC5C62000AE916D /* LoginVC.swift in Sources */,
 				68EE68201CBC92E40073802A /* AppDelegate.swift in Sources */,
+				68E9EB101CC5C98000AE916D /* Core.swift in Sources */,
+				6838C77C1CC5D161003B91E8 /* ProviderVC.swift in Sources */,
+				68E9EB0C1CC5C62900AE916D /* RegisterVC.swift in Sources */,
+				6838C77E1CC5D5B4003B91E8 /* UIViewController+Extras.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		68EE68231CBC92E40073802A /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				68EE68241CBC92E40073802A /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		68EE68281CBC92E40073802A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -247,6 +338,7 @@
 		};
 		68EE682F1CBC92E40073802A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 92536E2E04E3F490CB27BB0B /* Pods-ProjectSnowman.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ProjectSnowman/Info.plist;
@@ -258,6 +350,7 @@
 		};
 		68EE68301CBC92E40073802A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2D9128F89206C944A3720C68 /* Pods-ProjectSnowman.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ProjectSnowman/Info.plist;
@@ -286,6 +379,7 @@
 				68EE68301CBC92E40073802A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
