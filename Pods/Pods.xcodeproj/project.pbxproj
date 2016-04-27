@@ -13,9 +13,131 @@
 		<key>012A7E018F3D34F159894EBD7EACACF9</key>
 		<dict>
 			<key>fileRef</key>
-			<string>C30DAF734CAAF2F494DE720B2386CFFF</string>
+			<string>AE44467FFD91FC0ADBA69B18E6C6A603</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>0327EF7BE3F9A6680E9A9B099C023FB7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>UIImage+Stripe.m</string>
+			<key>path</key>
+			<string>Stripe/UI/UIImage+Stripe.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>04A313AA75E2F2579032ADE30792189A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPBankAccount.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPBankAccount.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>056588F8D9ED081FD85037BB5D08449E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPToken.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPToken.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>077BC9216681CE3139C9E20DC1A26A2F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPPaymentCardTextFieldViewModel.h</string>
+			<key>path</key>
+			<string>Stripe/UI/STPPaymentCardTextFieldViewModel.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>07B0E12C713E0EF15D1533A7FD37EB66</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Stripe.framework</string>
+			<key>path</key>
+			<string>Stripe.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>0810A3DD0C1C0C05603B65899BBEC52C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F5AAC1A08B51DAC7050AF240FD0948E0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>0A2B93C6721445B68B3DAAC265F5D778</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>8DAE73F04DEB9AF2F282643D7FEE9B9C</string>
+			<key>buildPhases</key>
+			<array>
+				<string>56D5162C15DEF39E2076CEBFDDCD971D</string>
+				<string>4DA385F584464283791555A9977D347C</string>
+				<string>D72FE5FF6C59195F256E333ADB02885E</string>
+				<string>5DD296763FA990945148F63E68956418</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Stripe</string>
+			<key>productName</key>
+			<string>Stripe</string>
+			<key>productReference</key>
+			<string>07B0E12C713E0EF15D1533A7FD37EB66</string>
+			<key>productType</key>
+			<string>com.apple.product-type.framework</string>
+		</dict>
+		<key>0D7E3E02BB0B7335CC0560681F13E916</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E1E6BC1CFAFBF0680A1B070B3A182324</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
 		</dict>
 		<key>0DFAFB82C4EA83A9A13738FA55EE278F</key>
 		<dict>
@@ -30,20 +152,84 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>0F4C6FC79661FF15B48C3019A2B79597</key>
+		<key>0F03008C00DA95A5D2491437E7ABD13E</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>fileRef</key>
+			<string>5777FAAC6FF7FFE63A7AAF257D5169F2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1029307F7161BB46FE80FE74C3688555</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5F33451C2419A4F02606668A3A13542A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>11407FCBCD9941398DDB61D077B27026</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPCardParams.m</string>
+			<key>path</key>
+			<string>Stripe/STPCardParams.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>11B3BC8681BAED507BE902DDDA37D92F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>87910E1CA2594B1A19182464C04C596B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>11BE3176DDEF7C0284DAAF4117DF4CCC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C270B32FC18AD52D39D1E85A82707A18</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>11BF899DD61E18CF25A4E24589D47A46</key>
+		<dict>
+			<key>children</key>
 			<array>
-				<string>7F25C56274E85F7E8161A0C971B8F9EB</string>
+				<string>1A9067822017F30902272E45C0DA3163</string>
+				<string>CDB1D39720DB2BBF717806D50843D0CC</string>
+				<string>68F73983BD252920C8496928BE3DBE9D</string>
+				<string>5F33451C2419A4F02606668A3A13542A</string>
+				<string>EFD475CAE7722E8D8FA12FF13F52B972</string>
+				<string>2D4DF0CBA1CD0E0F8276DCE86C3E8DF0</string>
 			</array>
 			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/Stripe</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>104481390B1098325AD2AFB70FC78878</key>
+		<key>11D9F8BED0BBA3CA478CBCF7F5643D82</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D2AA6A397747A577300F1B13CABA01B1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>125097A934E83DB93A66CD3D4FBC233E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -51,8 +237,23 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPPaymentCardTextField.h</string>
 			<key>path</key>
-			<string>Firebase-prefix.pch</string>
+			<string>Stripe/PublicHeaders/UI/STPPaymentCardTextField.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1270110738425E139F76344B63F69F78</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_amex.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_amex.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -69,10 +270,73 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>14C5172D6110091E1C980E9DFD47557D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6F2105F2D07C052340F6D0D06CEA65D8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>15076CDDE562026B3B9C83D8C032019D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EE08D805AE32EDF4D7185A1249FAFF49</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1565060B477D9879DC3CDAAE0CB5FCC7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7893079019B271A9A85FC9952EBC5986</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>159FB092969295FE7330773C480C2890</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Images</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>176DBC3DDACF841BBB4060F8A80247F4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2A64D3B8D76B34CDD34E75F4C5AB34E1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>19143674567B35C45EAFEB52E8B8C37D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPAPIClient+ApplePay.m</string>
+			<key>path</key>
+			<string>Stripe/ApplePay/STPAPIClient+ApplePay.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>191DE2EB9A35585AE0A88BA9F833A1F4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B9A06FFED058218134C702A407304A9F</string>
+			<string>30F01FDF531EA78C003A1AA517471973</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -82,6 +346,19 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>1A9067822017F30902272E45C0DA3163</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Info.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>1C04A7CD5B70C4561F6D98C882731C65</key>
 		<dict>
@@ -93,7 +370,7 @@
 		<key>1C3EF85CD30E6FF2E51471BD5B3CEB29</key>
 		<dict>
 			<key>fileRef</key>
-			<string>99994D7C8CADD905BE2B9BBD61C5DAD8</string>
+			<string>FE6FA0E3C1C08BCCB636B8E006967F9C</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -104,10 +381,32 @@
 				</array>
 			</dict>
 		</dict>
+		<key>1C6180D4DBE13AE9E5CCF379C1CE1B84</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPCheckoutViewController.m</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPCheckoutViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1CABB2E51D12EF2A14EB5D9A8E00DB29</key>
+		<dict>
+			<key>fileRef</key>
+			<string>297CA5C92C97E9EF844950EFDDE59043</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>1D925BB011B04DDED982C7946571A67A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>891B0E2082543D26FADFA72F524E77AF</string>
+			<string>83B7DBA936FB81811362B2EA5398F206</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -121,27 +420,111 @@
 		<key>1D9D7FF5237C8CC91EF58DC45AC274FB</key>
 		<dict>
 			<key>fileRef</key>
-			<string>91C0143DCE5A276FD546BC307BA6384A</string>
+			<string>B62B6F7DFFC6BEB6F48451B2F3C000EF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>224368C5EEC49D4D956B5B95BB215BFB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>archive.ar</string>
-			<key>path</key>
-			<string>libFirebaseStatic.a</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>239B10F388840841389B7F09648735B1</key>
+		<key>1E5E9F6BBCA7204AD2BED6DD4828F510</key>
 		<dict>
 			<key>fileRef</key>
-			<string>817BCDAD66E1493A462C3D125BB8A039</string>
+			<string>A1C77DE67BEFC8564C21484642F83EBD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1EDEA0176EF54074CD7EBFB4B83F0235</key>
+		<dict>
+			<key>fileRef</key>
+			<string>077BC9216681CE3139C9E20DC1A26A2F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>1F130C2971D5CFD6350B635B28A40833</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5D9345B8647CDF46399B0076F7E7F19B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1F1EC691FBE03488478534703F8E6CB9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E5F9B30DF2536217E758DD95FF1FB4D4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1F7CB733A4A607EC5D67D8D7C38E0D1B</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>710D85FF76EEE4338D29A8B4F05BBE2C</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Pods-ProjectSnowman/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>9.3</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MACH_O_TYPE</key>
+				<string>staticlib</string>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Pods-ProjectSnowman/Pods-ProjectSnowman.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PODS_ROOT</key>
+				<string>$(SRCROOT)</string>
+				<key>PRODUCT_NAME</key>
+				<string>Pods_ProjectSnowman</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>1FD87476FFFB5CA1BC5AE76CC57E4524</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E07C55F198FA28267DDDAC28A2F61869</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -151,6 +534,209 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>21B5469B6C0611B8F76C19F1C542BDFA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>159FB092969295FE7330773C480C2890</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>222EB8CB65212E141125CCE4D57CF343</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3F2788F02C98460B1A22F8D476B044FB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>226FA3C3B323080D49DB3B729CEDBDC4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_visa@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_visa@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>239B10F388840841389B7F09648735B1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2F13A5C2EF53A27AB5D1DBCEA2E2C281</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>2419560FD0D84409BCB0614CBF0272C7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Firebase-umbrella.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2558E9BA744AFA70F05495CC442EB74E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPAPIPostRequest.m</string>
+			<key>path</key>
+			<string>Stripe/STPAPIPostRequest.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>25944A2387714914152459908AFBF224</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DE40487573332D24D43AAEBAAFCD8CE4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>275961D9489193B10944E24B2CCDF4A9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C487E490ADD703C45CF95CF5BD000B4A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>27FAB62A36DEF637A45E1C00B7803817</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3F25B3CB4153F44F494A250BD3D401BB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>285EE94AA1C7B8600F2890CB5362D645</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>StripeError.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/StripeError.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>28E7CD5321519581532E0F34C50BFB12</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Firebase-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>297CA5C92C97E9EF844950EFDDE59043</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>NSDictionary+Stripe.m</string>
+			<key>path</key>
+			<string>Stripe/NSDictionary+Stripe.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>29EBBC6718BF20875DDE95F66C0B60BB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCheckoutOptions.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/Checkout/STPCheckoutOptions.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2A64D3B8D76B34CDD34E75F4C5AB34E1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_placeholder_template@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_placeholder_template@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2A85D53A9ABA2B9CD84BCC4022FFD668</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCardValidationState.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPCardValidationState.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2AF85A82F80C0B4959AEE7B9BFD31C11</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_diners@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_diners@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2B148FD7886230EFF368800AC4BCEDE3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1270110738425E139F76344B63F69F78</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>2B389FAB51F6EEA43F72CA7BDC8E8E28</key>
 		<dict>
@@ -225,32 +811,18 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>2C189CCD2DDCB20C04598DCAB950501A</key>
+		<key>2D4DF0CBA1CD0E0F8276DCE86C3E8DF0</key>
 		<dict>
-			<key>buildConfigurationList</key>
-			<string>52AA794462F1C476FE4A8FE1B8271DC0</string>
-			<key>buildPhases</key>
-			<array>
-				<string>0F4C6FC79661FF15B48C3019A2B79597</string>
-				<string>C069D674112778474AD54222855C81AA</string>
-				<string>74EF2B1D4A256D97D867F5469393538E</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>734B0743ABDB8FEA681A4695B1ECAC5E</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-ProjectSnowman</string>
-			<key>productName</key>
-			<string>Pods-ProjectSnowman</string>
-			<key>productReference</key>
-			<string>7C2B7D8E41770CD090C440C522E12470</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Stripe-umbrella.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
 		<dict>
@@ -266,10 +838,38 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
+		<key>2EB9A366973D226152BDFE50277ABD85</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPFormEncoder.h</string>
+			<key>path</key>
+			<string>Stripe/STPFormEncoder.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2F13A5C2EF53A27AB5D1DBCEA2E2C281</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>FEventType.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>2F1496011DBBB75777645194AAAFE92D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>8CAA7C78DB3882A984A96D28F8AA2D41</string>
+			<string>62A9C11B5C869812B023A489F93CD13F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -304,6 +904,19 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>30F01FDF531EA78C003A1AA517471973</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>FTransactionResult.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>311F31D6CC25D9675C58FE131F9FC45B</key>
 		<dict>
 			<key>children</key>
@@ -328,6 +941,91 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>3402C755AC8050C7EFC1417BD221F51A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0327EF7BE3F9A6680E9A9B099C023FB7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>34DDC3DF78D3A5205FBECCA6F9470FF9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C879CF209CA246D53DED989BFEFB32B3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>3771B25065E903BE155A95CD0869A0D9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EA854F962E0E447E8E01EA74ED4DD740</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>37763F65B73E1981C4392C26406B4C62</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Firebase.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3820CD36132BF26ECA41AEEE6D400FAA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E07CF8A9D0C710FB851A1D9C19F031E6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>38CC923D2A215815CF6AD3BA8A959DA4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D5677C59E9654B3822BE8E693CA997E3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>38D6FD4B504DFEAF395B09121C24F71C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>Fabric.h</string>
+			<key>path</key>
+			<string>Stripe/Fabric/Fabric.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>39DF03ADF9A40A8460CA9130248CBB8A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPStrictURLProtocol.h</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPStrictURLProtocol.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>3A1613131C760E9A50FCE317B836E677</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -341,52 +1039,159 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3B476BD7FF988DC32B52F52C2B7FCEBE</key>
+		<key>3A5BB6F714F3B76D293F6F03F2501A53</key>
 		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>E4050802578CD2D8EAD1B94FECCB87E8</string>
+			</array>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Firebase.framework</string>
-			<key>path</key>
-			<string>Firebase.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
-		<key>3C7CA58E3DA234AA2574549CD49238A7</key>
+		<key>3CEE36BAD29376D276F911EE768CB442</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPBankAccountParams.h</string>
 			<key>path</key>
-			<string>Firebase.modulemap</string>
+			<string>Stripe/PublicHeaders/STPBankAccountParams.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>427F16F73D185943C11EBA4F4AE61E8F</key>
+		<key>3D581544C930A1E862BF61A1AE43D461</key>
 		<dict>
 			<key>fileRef</key>
-			<string>77C49D928448B31FB9A7D5AE5C8D6C4E</string>
+			<string>D7846EE57EBB9DACB79FBDC942F31F04</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>4346A9C22408C3EABDFA7EE145F416B2</key>
+		<key>3DA8B55C979A9365494B6E52D15047A4</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>3B476BD7FF988DC32B52F52C2B7FCEBE</string>
-				<string>7C2B7D8E41770CD090C440C522E12470</string>
-			</array>
+			<key>fileRef</key>
+			<string>874288C4DB1C0F915945110437557386</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>3DE078F41017F100AB0A9B544CA52C36</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B19C345C2019CDE249217342F0C27B3A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>3F25B3CB4153F44F494A250BD3D401BB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>Products</string>
+			<string>STPCheckoutOptions.m</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPCheckoutOptions.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3F2788F02C98460B1A22F8D476B044FB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_placeholder@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_placeholder@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>40F0485F805B89508099800875692AC0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>Fabric+FABKits.h</string>
+			<key>path</key>
+			<string>Stripe/Fabric/Fabric+FABKits.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>42A77EB6BB4BEC6ADC2C11BAE922B822</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D6A95118157D883FA0A761D0E2B07AD3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>42E1BCBBD4168D441E175B2230518D2E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>FDataSnapshot.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>43D5215A1E703F95E6E1027758E184BF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2D4DF0CBA1CD0E0F8276DCE86C3E8DF0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>4524798C0E51C2880424FB3CF0EE0AFA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>FEADED060F72B2DA4583F8009D98E4D1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>46E052D320E3B778B76D8393E0BAFE0F</key>
 		<dict>
@@ -401,6 +1206,26 @@
 			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
+		</dict>
+		<key>4901B5E71576D19314F818F3A4DAB3D3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>FConfig.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>49287010392279F9972CCF216E03383B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7A64D82984F19F5BAB1A86E0050E2118</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>49B346C14D532324DCD14D0FA1347BC6</key>
 		<dict>
@@ -423,10 +1248,51 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
+		<key>4C64FED3DB57E44A82847A5E0AAC87B7</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>B19AD6D29C642AD329D9F136448A0C34</string>
+				<string>11BF899DD61E18CF25A4E24589D47A46</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Stripe</string>
+			<key>path</key>
+			<string>Stripe</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4CB4C4DDFD477A69595D6DC1B44C962D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>Firebase.modulemap</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4D07F588756D3A451A06C54938B507DD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>88A442D4EC1F28B6D7C0EF858A26C98B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4D58F475C89013B4800FC2EE02505F42</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B9EC5340878172CE1CA6A08ECB93C2F5</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>4D75CF0089B20355B17A851513C4A002</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A2E2AC3209047C6550E8D065954966F5</string>
+			<string>B8EA4955B6080BB7D093E89DFF023C1C</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -437,21 +1303,28 @@
 				</array>
 			</dict>
 		</dict>
-		<key>52AA794462F1C476FE4A8FE1B8271DC0</key>
+		<key>4DA385F584464283791555A9977D347C</key>
 		<dict>
-			<key>buildConfigurations</key>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>A7886744892DCEAF1E97044C692E448A</string>
-				<string>8835F4CCF303882DC82045FDAAF6D7FC</string>
+				<string>7E35ED8280F548FB98B527BDBB6CCDC2</string>
+				<string>B0C636DBC730283A4A21372582685FF6</string>
 			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
 			<key>isa</key>
-			<string>XCConfigurationList</string>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
-		<key>55000294CC62B92A597CC865BC53ECFC</key>
+		<key>51A2027B20F0BE456C47C2D2CFE8B7CA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8D8F3BE6431A1CD017C8915576FF5A39</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>5602B19D5EC3B26B537EE38CB39CCB56</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -459,23 +1332,135 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPAPIClient+ApplePay.h</string>
 			<key>path</key>
-			<string>FirebaseServerValue.h</string>
+			<string>Stripe/PublicHeaders/ApplePay/STPAPIClient+ApplePay.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5883428897D1426E6EB96D7E36556192</key>
+		<key>56D5162C15DEF39E2076CEBFDDCD971D</key>
 		<dict>
-			<key>children</key>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>224368C5EEC49D4D956B5B95BB215BFB</string>
+				<string>1CABB2E51D12EF2A14EB5D9A8E00DB29</string>
+				<string>4D58F475C89013B4800FC2EE02505F42</string>
+				<string>8E209D04224762AF72AA1E9309548C01</string>
+				<string>84BF714DB40E4A4A0296CEBB8954DD3E</string>
+				<string>BDB737D210197ECBB3D3BDADCBB7C5CD</string>
+				<string>6CA73AE2ED9E37062B6CA94156745998</string>
+				<string>49287010392279F9972CCF216E03383B</string>
+				<string>1F1EC691FBE03488478534703F8E6CB9</string>
+				<string>9DBAE1C82A7BA4AB195C951E7F39731D</string>
+				<string>FF3B0E4AF857E17DC9386CA66A160127</string>
+				<string>15076CDDE562026B3B9C83D8C032019D</string>
+				<string>DE9D199F2ACC853119BAB77D5E4C6CC3</string>
+				<string>27FAB62A36DEF637A45E1C00B7803817</string>
+				<string>AB86CFD505776F9D71DF2C020C34FAD6</string>
+				<string>8CE625C643F7DCE90E486CD961668D90</string>
+				<string>AE1D4D452FCFD08B591FE9DD1BB6D95C</string>
+				<string>F08190DD0C17ABBBBB4E00EEA9BAA23E</string>
+				<string>8F810F60AC8FB265A89D8084FF353578</string>
+				<string>11B3BC8681BAED507BE902DDDA37D92F</string>
+				<string>AF0B285CEBCD9F9DE931AD8E967A6DDA</string>
+				<string>E461E1354DB7ECD6957115BCA413833B</string>
+				<string>C31DB9E1C737BDDC5E4A40EFA8D3B5AE</string>
+				<string>BFD9082BDC8ED32309483925620CE38A</string>
+				<string>73DBBEA2B912AA03FEBD3EA3E2BB4C86</string>
+				<string>1029307F7161BB46FE80FE74C3688555</string>
+				<string>CA65166E61C0B56E8C07D381C0BCEF51</string>
+				<string>3402C755AC8050C7EFC1417BD221F51A</string>
 			</array>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>5777FAAC6FF7FFE63A7AAF257D5169F2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>Frameworks</string>
+			<string>stp_card_jcb@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_jcb@3x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>57D027C68D0C63FCED36157D324CE468</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Firebase.framework</string>
+			<key>path</key>
+			<string>Firebase.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>599E52F4E991554EC2F8E9879E5FA197</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>68F73983BD252920C8496928BE3DBE9D</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Stripe/Stripe-prefix.pch</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Stripe/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>9.3</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Stripe/Stripe.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>PRODUCT_NAME</key>
+				<string>Stripe</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
 		</dict>
 		<key>5A0C6FE968931D888F00C9EC18DDF5BC</key>
 		<dict>
@@ -545,6 +1530,175 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
+		<key>5B57DF2F2CE27001476C2184073D4094</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_diners@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_diners@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5BE8ADC9B2B035F4DDF4E7EC5B07A92B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCardBrand.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPCardBrand.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5C1B2BFC6AFE8630620321B861A1E874</key>
+		<dict>
+			<key>fileRef</key>
+			<string>40F0485F805B89508099800875692AC0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>5C9E6E0CD3A342817465CD6BB7F839D0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>744A0584C50FA0286BE4C5C452A578A0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>5D9345B8647CDF46399B0076F7E7F19B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_jcb@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_jcb@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5DBBF966F226C898B57A901347FA0EAB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPFormEncoder.m</string>
+			<key>path</key>
+			<string>Stripe/STPFormEncoder.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5DCEBAE3F94D5137AD9C293C93A3416F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPCheckoutInternalUIWebViewController.m</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPCheckoutInternalUIWebViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5DD296763FA990945148F63E68956418</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>21B5469B6C0611B8F76C19F1C542BDFA</string>
+				<string>2B148FD7886230EFF368800AC4BCEDE3</string>
+				<string>3820CD36132BF26ECA41AEEE6D400FAA</string>
+				<string>14C5172D6110091E1C980E9DFD47557D</string>
+				<string>4D07F588756D3A451A06C54938B507DD</string>
+				<string>275961D9489193B10944E24B2CCDF4A9</string>
+				<string>64D85D467910B4B96D148ED22BEDF899</string>
+				<string>5F78A8D1F1A83F29AEEB83D04156975F</string>
+				<string>5C9E6E0CD3A342817465CD6BB7F839D0</string>
+				<string>6C5389BB41C8EFBDCEAFD9CEE4044B33</string>
+				<string>3D581544C930A1E862BF61A1AE43D461</string>
+				<string>8E8CC5919BF2C2111DCC5E83D0965107</string>
+				<string>96424B6AA55172D246BEF9ABCBDA6AED</string>
+				<string>0810A3DD0C1C0C05603B65899BBEC52C</string>
+				<string>F56AFA3F5E1502D79DC6B273D98EAA71</string>
+				<string>3DA8B55C979A9365494B6E52D15047A4</string>
+				<string>38CC923D2A215815CF6AD3BA8A959DA4</string>
+				<string>1F130C2971D5CFD6350B635B28A40833</string>
+				<string>0F03008C00DA95A5D2491437E7ABD13E</string>
+				<string>F6E62C302CB4F1E901E93343EE93DFBE</string>
+				<string>C7796ECDD3CB15753958501E798DDDD1</string>
+				<string>DEE3B2299F64EAF8984E65997B454CB5</string>
+				<string>11BE3176DDEF7C0284DAAF4117DF4CCC</string>
+				<string>3771B25065E903BE155A95CD0869A0D9</string>
+				<string>222EB8CB65212E141125CCE4D57CF343</string>
+				<string>C690A80424D5431FFEC6E0C296D85D17</string>
+				<string>51A2027B20F0BE456C47C2D2CFE8B7CA</string>
+				<string>176DBC3DDACF841BBB4060F8A80247F4</string>
+				<string>6CE3C4DE14C7FE23191520F5B2B90392</string>
+				<string>956CE9F04BC07C236A798295DE8EE16E</string>
+				<string>F163DB6F7808B00861CFA4658F4C8DB6</string>
+			</array>
+			<key>isa</key>
+			<string>PBXResourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>5E90732509E989A62FAAB603CAE26B78</key>
+		<dict>
+			<key>fileRef</key>
+			<string>39DF03ADF9A40A8460CA9130248CBB8A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>5F33451C2419A4F02606668A3A13542A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Stripe-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5F78A8D1F1A83F29AEEB83D04156975F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A1FE1433D669AB3D234F38EFA727771D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>5FDD5BB3DF2FE7A0EB27D132A52340EE</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -574,7 +1728,7 @@
 		<key>60F9139BDD38565B78214C4FC5F5729D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A35E3E3F0CCA6B0B0A5E20810C135EA2</string>
+			<string>2419560FD0D84409BCB0614CBF0272C7</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -584,6 +1738,17 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>612A74FC123E0DC2334A532776846F2A</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>Stripe</string>
+			<key>target</key>
+			<string>0A2B93C6721445B68B3DAAC265F5D778</string>
+			<key>targetProxy</key>
+			<string>D1C2657520A95A5910952F28F67B008C</string>
 		</dict>
 		<key>6166BE40C18BC6BF0EED92CAB212EC33</key>
 		<dict>
@@ -598,6 +1763,21 @@
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
+		<key>6182E69AFE971983620367EB3902C057</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPBankAccount.m</string>
+			<key>path</key>
+			<string>Stripe/STPBankAccount.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>625153BBB646C2FD249EC266D12E48AB</key>
 		<dict>
 			<key>children</key>
@@ -611,6 +1791,61 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>62A9C11B5C869812B023A489F93CD13F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>FirebaseApp.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>63C80435432798D7E4DDA7CB76861033</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>7A1D69694A5EE68F938986119569B871</string>
+			<key>buildPhases</key>
+			<array>
+				<string>AEB8884E0BA75C555977664BE5A119A5</string>
+				<string>BE13BEA00E9895A380E46832D47CECD5</string>
+				<string>3A5BB6F714F3B76D293F6F03F2501A53</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>693A12186ED4756B680F70C2A88BF757</string>
+				<string>612A74FC123E0DC2334A532776846F2A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-ProjectSnowman</string>
+			<key>productName</key>
+			<string>Pods-ProjectSnowman</string>
+			<key>productReference</key>
+			<string>B656D118CF5D9F40F3F175C344BF968A</string>
+			<key>productType</key>
+			<string>com.apple.product-type.framework</string>
+		</dict>
+		<key>63F7D7A09563E6655A6CA6C15DD855E1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DC41122519F911841C4E5BA9448D4923</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>64B1658E56B3DAB4770C0A2A3FA2D8C8</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -622,10 +1857,17 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>64D85D467910B4B96D148ED22BEDF899</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D0286F40BD8DD450AB9764280D3F11F8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>6646DA26298257396C7FFE141BB84CC3</key>
 		<dict>
 			<key>fileRef</key>
-			<string>55000294CC62B92A597CC865BC53ECFC</string>
+			<string>93F3B2CA380DE455D74B897854207B76</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -635,6 +1877,205 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>685D9033822DB4F87FCF4A6C34911EB7</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>AE44467FFD91FC0ADBA69B18E6C6A603</string>
+				<string>F3762A3AFD0387066DD3DB94BD4C6FEB</string>
+				<string>83B7DBA936FB81811362B2EA5398F206</string>
+				<string>4901B5E71576D19314F818F3A4DAB3D3</string>
+				<string>42E1BCBBD4168D441E175B2230518D2E</string>
+				<string>2F13A5C2EF53A27AB5D1DBCEA2E2C281</string>
+				<string>FE6FA0E3C1C08BCCB636B8E006967F9C</string>
+				<string>62A9C11B5C869812B023A489F93CD13F</string>
+				<string>93F3B2CA380DE455D74B897854207B76</string>
+				<string>6BD81BF495EE43A9FF730E5CB482A301</string>
+				<string>B8EA4955B6080BB7D093E89DFF023C1C</string>
+				<string>30F01FDF531EA78C003A1AA517471973</string>
+				<string>859C23D6DDB73E6C949BFD7426310096</string>
+				<string>9078694F9610D9B0CD94AE3162B28F98</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Firebase</string>
+			<key>path</key>
+			<string>Firebase</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>68F73983BD252920C8496928BE3DBE9D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Stripe.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>69232C00A45E0E83B87002676703262D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Info.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>692930F2AD067037980EADC848BE8A13</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>159FB092969295FE7330773C480C2890</string>
+				<string>1270110738425E139F76344B63F69F78</string>
+				<string>E07CF8A9D0C710FB851A1D9C19F031E6</string>
+				<string>6F2105F2D07C052340F6D0D06CEA65D8</string>
+				<string>88A442D4EC1F28B6D7C0EF858A26C98B</string>
+				<string>C487E490ADD703C45CF95CF5BD000B4A</string>
+				<string>D0286F40BD8DD450AB9764280D3F11F8</string>
+				<string>A1FE1433D669AB3D234F38EFA727771D</string>
+				<string>744A0584C50FA0286BE4C5C452A578A0</string>
+				<string>BFBEB618D5B06333B733002EE48788FD</string>
+				<string>D7846EE57EBB9DACB79FBDC942F31F04</string>
+				<string>5B57DF2F2CE27001476C2184073D4094</string>
+				<string>2AF85A82F80C0B4959AEE7B9BFD31C11</string>
+				<string>F5AAC1A08B51DAC7050AF240FD0948E0</string>
+				<string>BD96BD1CE638F4D17875F9B6ED6D64E1</string>
+				<string>874288C4DB1C0F915945110437557386</string>
+				<string>D5677C59E9654B3822BE8E693CA997E3</string>
+				<string>5D9345B8647CDF46399B0076F7E7F19B</string>
+				<string>5777FAAC6FF7FFE63A7AAF257D5169F2</string>
+				<string>7B92FFC367CEB4A53E243FD97EE6FAA9</string>
+				<string>8AD45023B693A46064546E78C941C8E3</string>
+				<string>DE2EF38E48D14D805408D13CBAFBAC24</string>
+				<string>C270B32FC18AD52D39D1E85A82707A18</string>
+				<string>EA854F962E0E447E8E01EA74ED4DD740</string>
+				<string>3F2788F02C98460B1A22F8D476B044FB</string>
+				<string>F627A100A7C13ADB39076A0C7DF34243</string>
+				<string>8D8F3BE6431A1CD017C8915576FF5A39</string>
+				<string>2A64D3B8D76B34CDD34E75F4C5AB34E1</string>
+				<string>E691CC219CBB61B43E92D18850ACB704</string>
+				<string>B53189786E684E96565A4B7B04346FC3</string>
+				<string>226FA3C3B323080D49DB3B729CEDBDC4</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Resources</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>693A12186ED4756B680F70C2A88BF757</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>Firebase</string>
+			<key>target</key>
+			<string>B7AC9326D819482593FE118E915409D7</string>
+			<key>targetProxy</key>
+			<string>9AFABCAEE66BCAD21C3934F5E17DAEA6</string>
+		</dict>
+		<key>6B5D1A54EFF984CC06046FB5CC458CEE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPPaymentCardTextField.m</string>
+			<key>path</key>
+			<string>Stripe/UI/STPPaymentCardTextField.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6BD81BF495EE43A9FF730E5CB482A301</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>FMutableData.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6C5389BB41C8EFBDCEAFD9CEE4044B33</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BFBEB618D5B06333B733002EE48788FD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6CA73AE2ED9E37062B6CA94156745998</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6182E69AFE971983620367EB3902C057</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6CE3C4DE14C7FE23191520F5B2B90392</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E691CC219CBB61B43E92D18850ACB704</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6F2105F2D07C052340F6D0D06CEA65D8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_amex@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_amex@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6F4E37C507C4A00AF705C1C00AFDEF3E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E87486F714B7B79FF5D79F42F66F2A94</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>70D411E0857DF1AD285A4747FDBF7B8F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPStrictURLProtocol.m</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPStrictURLProtocol.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>710D85FF76EEE4338D29A8B4F05BBE2C</key>
 		<dict>
@@ -649,29 +2090,40 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>734B0743ABDB8FEA681A4695B1ECAC5E</key>
+		<key>73DBBEA2B912AA03FEBD3EA3E2BB4C86</key>
 		<dict>
+			<key>fileRef</key>
+			<string>99DB9FD3DBC8AE6F8ADA4DDE426B1AB7</string>
 			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>Firebase</string>
-			<key>target</key>
-			<string>B7AC9326D819482593FE118E915409D7</string>
-			<key>targetProxy</key>
-			<string>86125704725C7C0AB965CA131FE89EC8</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>74EF2B1D4A256D97D867F5469393538E</key>
+		<key>744A0584C50FA0286BE4C5C452A578A0</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>BF00C1D9965A1707359BBEB2FB0320F4</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_cvc_amex@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_cvc_amex@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>754BA1A3832EC7F4651E02A9E33A1E69</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>StripeError.m</string>
+			<key>path</key>
+			<string>Stripe/StripeError.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>77C49D928448B31FB9A7D5AE5C8D6C4E</key>
 		<dict>
@@ -686,20 +2138,91 @@
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>7C2B7D8E41770CD090C440C522E12470</key>
+		<key>7893079019B271A9A85FC9952EBC5986</key>
 		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
 			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCategoryLoader.h</string>
+			<key>path</key>
+			<string>Stripe/STPCategoryLoader.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7A03DBD06B650E68C706F3EBF06C829D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B9AE02261653CBE889537D14773FF7D7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>7A1D69694A5EE68F938986119569B871</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>1F7CB733A4A607EC5D67D8D7C38E0D1B</string>
+				<string>A8A2F828A825CD14AFCC539E94B63FB5</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>7A64D82984F19F5BAB1A86E0050E2118</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPBankAccountParams.m</string>
+			<key>path</key>
+			<string>Stripe/STPBankAccountParams.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7B92FFC367CEB4A53E243FD97EE6FAA9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>Pods_ProjectSnowman.framework</string>
+			<string>stp_card_mastercard.png</string>
 			<key>path</key>
-			<string>Pods_ProjectSnowman.framework</string>
+			<string>Stripe/Resources/Images/stp_card_mastercard.png</string>
 			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7D36CF70196647EAEB0701009F8F7506</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPCardValidator.m</string>
+			<key>path</key>
+			<string>Stripe/STPCardValidator.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>7DB346D0F39D3F0E887471402A8071AB</key>
 		<dict>
@@ -707,8 +2230,8 @@
 			<array>
 				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
 				<string>14B8B9B15ECBE87983FF987239AB2D7B</string>
-				<string>F56CE447D2542B744EB0DA47C71E6EDD</string>
-				<string>4346A9C22408C3EABDFA7EE145F416B2</string>
+				<string>962008AA333B9B0B09B7D174A7632C96</string>
+				<string>DB9DDAD2E1539F6B1357B40BC869155F</string>
 				<string>625153BBB646C2FD249EC266D12E48AB</string>
 			</array>
 			<key>isa</key>
@@ -716,43 +2239,17 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7E547A224BA2BD4DB4A5DB059D7F5898</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>FMutableData.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7F25C56274E85F7E8161A0C971B8F9EB</key>
+		<key>7E35ED8280F548FB98B527BDBB6CCDC2</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A1C77DE67BEFC8564C21484642F83EBD</string>
+			<string>77C49D928448B31FB9A7D5AE5C8D6C4E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>817BCDAD66E1493A462C3D125BB8A039</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>FEventType.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>82E96D87DE082D4790DB1C23DE00F100</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>E6BB016D3ABEBF694D68538838DE8DA0</string>
+			<string>37763F65B73E1981C4392C26406B4C62</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
@@ -805,6 +2302,33 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
+		<key>83B7DBA936FB81811362B2EA5398F206</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>FAuthType.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>840142F91CBC4EFBCBEE3B9AF59BC8F7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>29EBBC6718BF20875DDE95F66C0B60BB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>843A690C4A272ACCFA5202DC4499C74E</key>
 		<dict>
 			<key>children</key>
@@ -821,7 +2345,242 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>85FE7BFEAA7B743553B973A7168CDD98</key>
+		<key>84BF714DB40E4A4A0296CEBB8954DD3E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DA7DEB96ABC093A2B2F856C7B6066353</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>858073FE643073389926BEC8DC9A51DF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>FABKitProtocol.h</string>
+			<key>path</key>
+			<string>Stripe/Fabric/FABKitProtocol.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>859C23D6DDB73E6C949BFD7426310096</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>E05E0F9E097910F64F79F3B280385A5A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>86EDBD234EAE17AD11D1BC3EB96A05CC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>285EE94AA1C7B8600F2890CB5362D645</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>874288C4DB1C0F915945110437557386</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_discover@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_discover@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>87910E1CA2594B1A19182464C04C596B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPOSXCheckoutWebViewAdapter.m</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPOSXCheckoutWebViewAdapter.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>88A442D4EC1F28B6D7C0EF858A26C98B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_cvc.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_cvc.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8AD45023B693A46064546E78C941C8E3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_mastercard@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_mastercard@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8B2DD53CB927F87CBF256D04BC3B2DFF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>ADFF258597AE0E61E841C9AF83D31370</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>8C4A63101393155EB5BDA61E56907576</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text</string>
+			<key>path</key>
+			<string>Pods-ProjectSnowman-acknowledgements.markdown</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8CE625C643F7DCE90E486CD961668D90</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DDECA4E11E689F7DC4BC7581BE32F022</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8D41526889FBD8827616A7F5BF6F3C56</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPPaymentCardTextFieldViewModel.m</string>
+			<key>path</key>
+			<string>Stripe/UI/STPPaymentCardTextFieldViewModel.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8D716FAFBDDC6B079E1E7975B5B59FAC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCard.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPCard.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8D8F3BE6431A1CD017C8915576FF5A39</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_placeholder_template@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_placeholder_template@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8DAE73F04DEB9AF2F282643D7FEE9B9C</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>599E52F4E991554EC2F8E9879E5FA197</string>
+				<string>F3FBD6AC045BCDA58349A34F97D237A3</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>8E209D04224762AF72AA1E9309548C01</key>
+		<dict>
+			<key>fileRef</key>
+			<string>19143674567B35C45EAFEB52E8B8C37D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8E8CC5919BF2C2111DCC5E83D0965107</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5B57DF2F2CE27001476C2184073D4094</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8F810F60AC8FB265A89D8084FF353578</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B9DAAAA870332C4EACE6B4C32DB3B903</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>9078694F9610D9B0CD94AE3162B28F98</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>4CB4C4DDFD477A69595D6DC1B44C962D</string>
+				<string>37763F65B73E1981C4392C26406B4C62</string>
+				<string>B62B6F7DFFC6BEB6F48451B2F3C000EF</string>
+				<string>28E7CD5321519581532E0F34C50BFB12</string>
+				<string>2419560FD0D84409BCB0614CBF0272C7</string>
+				<string>69232C00A45E0E83B87002676703262D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/Firebase</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>93F3B2CA380DE455D74B897854207B76</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -830,11 +2589,96 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>FDataSnapshot.h</string>
+			<string>FirebaseServerValue.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>86125704725C7C0AB965CA131FE89EC8</key>
+		<key>942CE92C8160E32C413E75E7E3C82937</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPAPIResponseDecodable.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPAPIResponseDecodable.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>95435B0A4CF9C3646F759EEA952B64D8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>04A313AA75E2F2579032ADE30792189A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>956CE9F04BC07C236A798295DE8EE16E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B53189786E684E96565A4B7B04346FC3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>962008AA333B9B0B09B7D174A7632C96</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>685D9033822DB4F87FCF4A6C34911EB7</string>
+				<string>4C64FED3DB57E44A82847A5E0AAC87B7</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>96424B6AA55172D246BEF9ABCBDA6AED</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2AF85A82F80C0B4959AEE7B9BFD31C11</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>99DB9FD3DBC8AE6F8ADA4DDE426B1AB7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>Stripe+ApplePay.m</string>
+			<key>path</key>
+			<string>Stripe/ApplePay/Stripe+ApplePay.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9A361E90BDF0F9B979BCB4DFF767CBE6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Pods-ProjectSnowman-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9AFABCAEE66BCAD21C3934F5E17DAEA6</key>
 		<dict>
 			<key>containerPortal</key>
 			<string>D41D8CD98F00B204E9800998ECF8427E</string>
@@ -847,7 +2691,99 @@
 			<key>remoteInfo</key>
 			<string>Firebase</string>
 		</dict>
-		<key>8835F4CCF303882DC82045FDAAF6D7FC</key>
+		<key>9CD2AEC1603A182F4F29A8039BFB7CF0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>858073FE643073389926BEC8DC9A51DF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>9DBAE1C82A7BA4AB195C951E7F39731D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>11407FCBCD9941398DDB61D077B27026</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>9E8612ED0FEB42EE84397BC166EAE1F2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8D716FAFBDDC6B079E1E7975B5B59FAC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>A0ED4B4E7C7B4AD4A1585AFF9A312D3F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCheckoutDelegate.h</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPCheckoutDelegate.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A1C77DE67BEFC8564C21484642F83EBD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-ProjectSnowman-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A1FE1433D669AB3D234F38EFA727771D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_cvc_amex.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_cvc_amex.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A7E10F383DCD59079712A57B50DCF88E</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>E3FBB5B462A14E8ACC9B340227DE4BE1</string>
+				<string>4B0EFAAA29109D9A705A27EFFA10FAE2</string>
+				<string>1C04A7CD5B70C4561F6D98C882731C65</string>
+				<string>E1A883FEBDEED9B85D90D6BE2080F218</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>A8A2F828A825CD14AFCC539E94B63FB5</key>
 		<dict>
 			<key>baseConfigurationReference</key>
 			<string>DA42A56E975543D8E3F805E712784F06</string>
@@ -909,7 +2845,28 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>891B0E2082543D26FADFA72F524E77AF</key>
+		<key>AB86CFD505776F9D71DF2C020C34FAD6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1C6180D4DBE13AE9E5CCF379C1CE1B84</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>ACCCD5584EFFE7F33A78499E5F15DF2C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>38D6FD4B504DFEAF395B09121C24F71C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>ADFF258597AE0E61E841C9AF83D31370</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -917,25 +2874,137 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>PKPayment+Stripe.h</string>
 			<key>path</key>
-			<string>FAuthType.h</string>
+			<string>Stripe/ApplePay/PKPayment+Stripe.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8C4A63101393155EB5BDA61E56907576</key>
+		<key>AE1D4D452FCFD08B591FE9DD1BB6D95C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5DBBF966F226C898B57A901347FA0EAB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AE44467FFD91FC0ADBA69B18E6C6A603</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>Pods-ProjectSnowman-acknowledgements.markdown</string>
+			<string>Empty.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8CAA7C78DB3882A984A96D28F8AA2D41</key>
+		<key>AEB8884E0BA75C555977664BE5A119A5</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>1E5E9F6BBCA7204AD2BED6DD4828F510</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>AF0B285CEBCD9F9DE931AD8E967A6DDA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6B5D1A54EFF984CC06046FB5CC458CEE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B0C636DBC730283A4A21372582685FF6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C6204446BD9150A17B12E81B4A6F9CA8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B19AD6D29C642AD329D9F136448A0C34</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>858073FE643073389926BEC8DC9A51DF</string>
+				<string>38D6FD4B504DFEAF395B09121C24F71C</string>
+				<string>40F0485F805B89508099800875692AC0</string>
+				<string>EFE71982E0A9DD7962AA399E73EC106E</string>
+				<string>297CA5C92C97E9EF844950EFDDE59043</string>
+				<string>ADFF258597AE0E61E841C9AF83D31370</string>
+				<string>B9EC5340878172CE1CA6A08ECB93C2F5</string>
+				<string>FEADED060F72B2DA4583F8009D98E4D1</string>
+				<string>DA7DEB96ABC093A2B2F856C7B6066353</string>
+				<string>5602B19D5EC3B26B537EE38CB39CCB56</string>
+				<string>19143674567B35C45EAFEB52E8B8C37D</string>
+				<string>B19C345C2019CDE249217342F0C27B3A</string>
+				<string>F9ABCB7BC40B6E45F5531EE50BDD45CB</string>
+				<string>2558E9BA744AFA70F05495CC442EB74E</string>
+				<string>942CE92C8160E32C413E75E7E3C82937</string>
+				<string>04A313AA75E2F2579032ADE30792189A</string>
+				<string>6182E69AFE971983620367EB3902C057</string>
+				<string>3CEE36BAD29376D276F911EE768CB442</string>
+				<string>7A64D82984F19F5BAB1A86E0050E2118</string>
+				<string>8D716FAFBDDC6B079E1E7975B5B59FAC</string>
+				<string>E5F9B30DF2536217E758DD95FF1FB4D4</string>
+				<string>5BE8ADC9B2B035F4DDF4E7EC5B07A92B</string>
+				<string>DE40487573332D24D43AAEBAAFCD8CE4</string>
+				<string>11407FCBCD9941398DDB61D077B27026</string>
+				<string>2A85D53A9ABA2B9CD84BCC4022FFD668</string>
+				<string>B75348F893733A97EB8EA88D5821A557</string>
+				<string>7D36CF70196647EAEB0701009F8F7506</string>
+				<string>7893079019B271A9A85FC9952EBC5986</string>
+				<string>EE08D805AE32EDF4D7185A1249FAFF49</string>
+				<string>A0ED4B4E7C7B4AD4A1585AFF9A312D3F</string>
+				<string>DDA3D87E01AC7456791CBEFC2370C463</string>
+				<string>5DCEBAE3F94D5137AD9C293C93A3416F</string>
+				<string>29EBBC6718BF20875DDE95F66C0B60BB</string>
+				<string>3F25B3CB4153F44F494A250BD3D401BB</string>
+				<string>C74E0F71480438877F9E2D274AA181F0</string>
+				<string>1C6180D4DBE13AE9E5CCF379C1CE1B84</string>
+				<string>C879CF209CA246D53DED989BFEFB32B3</string>
+				<string>E1E6BC1CFAFBF0680A1B070B3A182324</string>
+				<string>DDECA4E11E689F7DC4BC7581BE32F022</string>
+				<string>E07C55F198FA28267DDDAC28A2F61869</string>
+				<string>2EB9A366973D226152BDFE50277ABD85</string>
+				<string>5DBBF966F226C898B57A901347FA0EAB</string>
+				<string>FEA2B84EF07CA9AC2601B29742457B60</string>
+				<string>DD96A7D0FD53B297746200FA9A263BAC</string>
+				<string>E87486F714B7B79FF5D79F42F66F2A94</string>
+				<string>B9DAAAA870332C4EACE6B4C32DB3B903</string>
+				<string>D6A95118157D883FA0A761D0E2B07AD3</string>
+				<string>87910E1CA2594B1A19182464C04C596B</string>
+				<string>125097A934E83DB93A66CD3D4FBC233E</string>
+				<string>6B5D1A54EFF984CC06046FB5CC458CEE</string>
+				<string>077BC9216681CE3139C9E20DC1A26A2F</string>
+				<string>8D41526889FBD8827616A7F5BF6F3C56</string>
+				<string>39DF03ADF9A40A8460CA9130248CBB8A</string>
+				<string>70D411E0857DF1AD285A4747FDBF7B8F</string>
+				<string>056588F8D9ED081FD85037BB5D08449E</string>
+				<string>BB3DF0A903AFD5DD17EB10DC6D0C553F</string>
+				<string>DC41122519F911841C4E5BA9448D4923</string>
+				<string>D2AA6A397747A577300F1B13CABA01B1</string>
+				<string>99DB9FD3DBC8AE6F8ADA4DDE426B1AB7</string>
+				<string>285EE94AA1C7B8600F2890CB5362D645</string>
+				<string>754BA1A3832EC7F4651E02A9E33A1E69</string>
+				<string>B9AE02261653CBE889537D14773FF7D7</string>
+				<string>0327EF7BE3F9A6680E9A9B099C023FB7</string>
+				<string>692930F2AD067037980EADC848BE8A13</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Core</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B19C345C2019CDE249217342F0C27B3A</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -943,12 +3012,27 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPAPIClient+Private.h</string>
 			<key>path</key>
-			<string>FirebaseApp.h</string>
+			<string>Stripe/STPAPIClient+Private.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>91C0143DCE5A276FD546BC307BA6384A</key>
+		<key>B53189786E684E96565A4B7B04346FC3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_visa@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_visa@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B62B6F7DFFC6BEB6F48451B2F3C000EF</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -961,161 +3045,35 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>9726FDC67EF47C28FEC9A974D42B81B4</key>
+		<key>B656D118CF5D9F40F3F175C344BF968A</key>
 		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
 			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>FConfig.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>99994D7C8CADD905BE2B9BBD61C5DAD8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Firebase.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9A361E90BDF0F9B979BCB4DFF767CBE6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-ProjectSnowman-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A1C77DE67BEFC8564C21484642F83EBD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-ProjectSnowman-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A2E2AC3209047C6550E8D065954966F5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>FQuery.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A35E3E3F0CCA6B0B0A5E20810C135EA2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Firebase-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A7886744892DCEAF1E97044C692E448A</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>710D85FF76EEE4338D29A8B4F05BBE2C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-ProjectSnowman/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-ProjectSnowman/Pods-ProjectSnowman.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_ProjectSnowman</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>A7E10F383DCD59079712A57B50DCF88E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E3FBB5B462A14E8ACC9B340227DE4BE1</string>
-				<string>4B0EFAAA29109D9A705A27EFFA10FAE2</string>
-				<string>1C04A7CD5B70C4561F6D98C882731C65</string>
-				<string>E1A883FEBDEED9B85D90D6BE2080F218</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods_ProjectSnowman.framework</string>
+			<key>path</key>
+			<string>Pods_ProjectSnowman.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>B75348F893733A97EB8EA88D5821A557</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCardValidator.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPCardValidator.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>B7AC9326D819482593FE118E915409D7</key>
 		<dict>
@@ -1138,52 +3096,25 @@
 			<key>productName</key>
 			<string>Firebase</string>
 			<key>productReference</key>
-			<string>3B476BD7FF988DC32B52F52C2B7FCEBE</string>
+			<string>57D027C68D0C63FCED36157D324CE468</string>
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
 		</dict>
-		<key>B870B24C59D78DF34E50CD8E9DB3800F</key>
+		<key>B8AD70C140338E111C3FF41E89F14D90</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>C30DAF734CAAF2F494DE720B2386CFFF</string>
-				<string>CDBB06694A091085C1CDD755EBC4B578</string>
-				<string>891B0E2082543D26FADFA72F524E77AF</string>
-				<string>9726FDC67EF47C28FEC9A974D42B81B4</string>
-				<string>85FE7BFEAA7B743553B973A7168CDD98</string>
-				<string>817BCDAD66E1493A462C3D125BB8A039</string>
-				<string>99994D7C8CADD905BE2B9BBD61C5DAD8</string>
-				<string>8CAA7C78DB3882A984A96D28F8AA2D41</string>
-				<string>55000294CC62B92A597CC865BC53ECFC</string>
-				<string>7E547A224BA2BD4DB4A5DB059D7F5898</string>
-				<string>A2E2AC3209047C6550E8D065954966F5</string>
-				<string>B9A06FFED058218134C702A407304A9F</string>
-				<string>5883428897D1426E6EB96D7E36556192</string>
-				<string>FCDF2535463133900325F78E576B07E8</string>
-			</array>
+			<key>fileRef</key>
+			<string>EFE71982E0A9DD7962AA399E73EC106E</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Firebase</string>
-			<key>path</key>
-			<string>Firebase</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
 		</dict>
-		<key>B8A3E022EEBF7EE421677F959588CBDA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B9A06FFED058218134C702A407304A9F</key>
+		<key>B8EA4955B6080BB7D093E89DFF023C1C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1192,7 +3123,52 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>FTransactionResult.h</string>
+			<string>FQuery.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B9AE02261653CBE889537D14773FF7D7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>UIImage+Stripe.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/UI/UIImage+Stripe.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B9DAAAA870332C4EACE6B4C32DB3B903</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPIOSCheckoutWebViewAdapter.m</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPIOSCheckoutWebViewAdapter.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B9EC5340878172CE1CA6A08ECB93C2F5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>PKPayment+Stripe.m</string>
+			<key>path</key>
+			<string>Stripe/ApplePay/PKPayment+Stripe.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1213,48 +3189,7 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>BF00C1D9965A1707359BBEB2FB0320F4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3A1613131C760E9A50FCE317B836E677</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>C069D674112778474AD54222855C81AA</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>427F16F73D185943C11EBA4F4AE61E8F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>C23FCF31260D47CEC1494A292DAA1A1E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CDBB06694A091085C1CDD755EBC4B578</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>C30DAF734CAAF2F494DE720B2386CFFF</key>
+		<key>BB3DF0A903AFD5DD17EB10DC6D0C553F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1262,8 +3197,166 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPToken.m</string>
 			<key>path</key>
-			<string>Empty.m</string>
+			<string>Stripe/STPToken.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BC027DF174E93A2768E77036E9265403</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2A85D53A9ABA2B9CD84BCC4022FFD668</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>BD96BD1CE638F4D17875F9B6ED6D64E1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_discover@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_discover@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BDB737D210197ECBB3D3BDADCBB7C5CD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2558E9BA744AFA70F05495CC442EB74E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>BE13BEA00E9895A380E46832D47CECD5</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>FF0B50C9E38F82E5F1E3E268AF82A2E1</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>BFBEB618D5B06333B733002EE48788FD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_cvc_amex@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_cvc_amex@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BFD9082BDC8ED32309483925620CE38A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BB3DF0A903AFD5DD17EB10DC6D0C553F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C0C3A0ED2196A5736A698DB7803A9373</key>
+		<dict>
+			<key>fileRef</key>
+			<string>056588F8D9ED081FD85037BB5D08449E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C23FCF31260D47CEC1494A292DAA1A1E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F3762A3AFD0387066DD3DB94BD4C6FEB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C270B32FC18AD52D39D1E85A82707A18</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_placeholder.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_placeholder.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C31DB9E1C737BDDC5E4A40EFA8D3B5AE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>70D411E0857DF1AD285A4747FDBF7B8F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C36A5D4D690B8265B9952DB1A9A346F1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DDA3D87E01AC7456791CBEFC2370C463</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C36E7494B2CB3DB4936BE451A9B15D66</key>
+		<dict>
+			<key>fileRef</key>
+			<string>125097A934E83DB93A66CD3D4FBC233E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C487E490ADD703C45CF95CF5BD000B4A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_cvc@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_cvc@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1280,7 +3373,42 @@
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>CDBB06694A091085C1CDD755EBC4B578</key>
+		<key>C6332303CDA23B04F365235950BF016F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A0ED4B4E7C7B4AD4A1585AFF9A312D3F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C690A80424D5431FFEC6E0C296D85D17</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F627A100A7C13ADB39076A0C7DF34243</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C6B01FCFC0F798D90246BEB1B82003ED</key>
+		<dict>
+			<key>fileRef</key>
+			<string>FEA2B84EF07CA9AC2601B29742457B60</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C74E0F71480438877F9E2D274AA181F0</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1288,15 +3416,98 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCheckoutViewController.h</string>
 			<key>path</key>
-			<string>FAuthData.h</string>
+			<string>Stripe/PublicHeaders/Checkout/STPCheckoutViewController.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C7796ECDD3CB15753958501E798DDDD1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8AD45023B693A46064546E78C941C8E3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C879CF209CA246D53DED989BFEFB32B3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCheckoutWebViewAdapter.h</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPCheckoutWebViewAdapter.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CA65166E61C0B56E8C07D381C0BCEF51</key>
+		<dict>
+			<key>fileRef</key>
+			<string>754BA1A3832EC7F4651E02A9E33A1E69</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CDB1D39720DB2BBF717806D50843D0CC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>Stripe.modulemap</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D0286F40BD8DD450AB9764280D3F11F8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_cvc@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_cvc@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D1C2657520A95A5910952F28F67B008C</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>D41D8CD98F00B204E9800998ECF8427E</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>0A2B93C6721445B68B3DAAC265F5D778</string>
+			<key>remoteInfo</key>
+			<string>Stripe</string>
+		</dict>
+		<key>D2AA6A397747A577300F1B13CABA01B1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>Stripe+ApplePay.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/ApplePay/Stripe+ApplePay.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D2F232F4F71BDD65CDD4EBBF6B74EBA1</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>E6BB016D3ABEBF694D68538838DE8DA0</string>
+			<string>37763F65B73E1981C4392C26406B4C62</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
@@ -1375,7 +3586,7 @@
 			<key>mainGroup</key>
 			<string>7DB346D0F39D3F0E887471402A8071AB</string>
 			<key>productRefGroup</key>
-			<string>4346A9C22408C3EABDFA7EE145F416B2</string>
+			<string>DB9DDAD2E1539F6B1357B40BC869155F</string>
 			<key>projectDirPath</key>
 			<string></string>
 			<key>projectReferences</key>
@@ -1385,8 +3596,100 @@
 			<key>targets</key>
 			<array>
 				<string>B7AC9326D819482593FE118E915409D7</string>
-				<string>2C189CCD2DDCB20C04598DCAB950501A</string>
+				<string>63C80435432798D7E4DDA7CB76861033</string>
+				<string>0A2B93C6721445B68B3DAAC265F5D778</string>
 			</array>
+		</dict>
+		<key>D5677C59E9654B3822BE8E693CA997E3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_jcb.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_jcb.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D6A95118157D883FA0A761D0E2B07AD3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPOSXCheckoutWebViewAdapter.h</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPOSXCheckoutWebViewAdapter.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D72FE5FF6C59195F256E333ADB02885E</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>9CD2AEC1603A182F4F29A8039BFB7CF0</string>
+				<string>5C1B2BFC6AFE8630620321B861A1E874</string>
+				<string>ACCCD5584EFFE7F33A78499E5F15DF2C</string>
+				<string>B8AD70C140338E111C3FF41E89F14D90</string>
+				<string>8B2DD53CB927F87CBF256D04BC3B2DFF</string>
+				<string>F8D5BF7C871A086E4B8E2C13D940F7EE</string>
+				<string>3DE078F41017F100AB0A9B544CA52C36</string>
+				<string>4524798C0E51C2880424FB3CF0EE0AFA</string>
+				<string>DAB5C55278497244CF2C6C6E677947BB</string>
+				<string>EFA0AFA15BE5B67AE91C0FEF25B00177</string>
+				<string>95435B0A4CF9C3646F759EEA952B64D8</string>
+				<string>E374D5A82F1C6B76543AFFBEDAD8FD30</string>
+				<string>9E8612ED0FEB42EE84397BC166EAE1F2</string>
+				<string>FCD005160574C9F93643E19231065A6E</string>
+				<string>25944A2387714914152459908AFBF224</string>
+				<string>BC027DF174E93A2768E77036E9265403</string>
+				<string>DCE418DEE759B1103C0300CFCDF8FA87</string>
+				<string>1565060B477D9879DC3CDAAE0CB5FCC7</string>
+				<string>C6332303CDA23B04F365235950BF016F</string>
+				<string>C36A5D4D690B8265B9952DB1A9A346F1</string>
+				<string>840142F91CBC4EFBCBEE3B9AF59BC8F7</string>
+				<string>EFC19E790612B2F40D90F0668842E8F4</string>
+				<string>34DDC3DF78D3A5205FBECCA6F9470FF9</string>
+				<string>0D7E3E02BB0B7335CC0560681F13E916</string>
+				<string>1FD87476FFFB5CA1BC5AE76CC57E4524</string>
+				<string>F85F44D07381D7FB932D671A4E015D7D</string>
+				<string>C6B01FCFC0F798D90246BEB1B82003ED</string>
+				<string>6F4E37C507C4A00AF705C1C00AFDEF3E</string>
+				<string>42A77EB6BB4BEC6ADC2C11BAE922B822</string>
+				<string>C36E7494B2CB3DB4936BE451A9B15D66</string>
+				<string>1EDEA0176EF54074CD7EBFB4B83F0235</string>
+				<string>5E90732509E989A62FAAB603CAE26B78</string>
+				<string>C0C3A0ED2196A5736A698DB7803A9373</string>
+				<string>11D9F8BED0BBA3CA478CBCF7F5643D82</string>
+				<string>43D5215A1E703F95E6E1027758E184BF</string>
+				<string>63F7D7A09563E6655A6CA6C15DD855E1</string>
+				<string>86EDBD234EAE17AD11D1BC3EB96A05CC</string>
+				<string>7A03DBD06B650E68C706F3EBF06C829D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>D7846EE57EBB9DACB79FBDC942F31F04</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_diners.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_diners.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>DA42A56E975543D8E3F805E712784F06</key>
 		<dict>
@@ -1401,10 +3704,39 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>DA7DEB96ABC093A2B2F856C7B6066353</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPAPIClient.m</string>
+			<key>path</key>
+			<string>Stripe/STPAPIClient.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DAB5C55278497244CF2C6C6E677947BB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F9ABCB7BC40B6E45F5531EE50BDD45CB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
 		<key>DB05A9DD8244D10C28B6915C514AE15F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>7E547A224BA2BD4DB4A5DB059D7F5898</string>
+			<string>6BD81BF495EE43A9FF730E5CB482A301</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1415,12 +3747,199 @@
 				</array>
 			</dict>
 		</dict>
+		<key>DB9DDAD2E1539F6B1357B40BC869155F</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>57D027C68D0C63FCED36157D324CE468</string>
+				<string>B656D118CF5D9F40F3F175C344BF968A</string>
+				<string>07B0E12C713E0EF15D1533A7FD37EB66</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DC41122519F911841C4E5BA9448D4923</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>Stripe.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/Stripe.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DCE418DEE759B1103C0300CFCDF8FA87</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B75348F893733A97EB8EA88D5821A557</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>DD96A7D0FD53B297746200FA9A263BAC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPFormTextField.m</string>
+			<key>path</key>
+			<string>Stripe/UI/STPFormTextField.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DDA3D87E01AC7456791CBEFC2370C463</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCheckoutInternalUIWebViewController.h</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPCheckoutInternalUIWebViewController.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DDECA4E11E689F7DC4BC7581BE32F022</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPColorUtils.m</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPColorUtils.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DE2EF38E48D14D805408D13CBAFBAC24</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_mastercard@3x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_mastercard@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DE40487573332D24D43AAEBAAFCD8CE4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPCardParams.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPCardParams.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DE9D199F2ACC853119BAB77D5E4C6CC3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5DCEBAE3F94D5137AD9C293C93A3416F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>DEE3B2299F64EAF8984E65997B454CB5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DE2EF38E48D14D805408D13CBAFBAC24</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E05E0F9E097910F64F79F3B280385A5A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>archive.ar</string>
+			<key>path</key>
+			<string>libFirebaseStatic.a</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E07C55F198FA28267DDDAC28A2F61869</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPFormEncodable.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPFormEncodable.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E07CF8A9D0C710FB851A1D9C19F031E6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_amex@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_amex@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>E1A883FEBDEED9B85D90D6BE2080F218</key>
 		<dict>
 			<key>fileRef</key>
 			<string>6166BE40C18BC6BF0EED92CAB212EC33</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>E1E6BC1CFAFBF0680A1B070B3A182324</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPColorUtils.h</string>
+			<key>path</key>
+			<string>Stripe/Checkout/STPColorUtils.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>E24552A0707059C98B380D380A69374D</key>
 		<dict>
@@ -1435,6 +3954,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>E374D5A82F1C6B76543AFFBEDAD8FD30</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3CEE36BAD29376D276F911EE768CB442</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>E3FBB5B462A14E8ACC9B340227DE4BE1</key>
 		<dict>
 			<key>fileRef</key>
@@ -1442,10 +3975,10 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>E60FA42EEC3ECC48701DB55986D25D69</key>
+		<key>E4050802578CD2D8EAD1B94FECCB87E8</key>
 		<dict>
 			<key>fileRef</key>
-			<string>9726FDC67EF47C28FEC9A974D42B81B4</string>
+			<string>3A1613131C760E9A50FCE317B836E677</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1456,23 +3989,32 @@
 				</array>
 			</dict>
 		</dict>
-		<key>E6BB016D3ABEBF694D68538838DE8DA0</key>
+		<key>E461E1354DB7ECD6957115BCA413833B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8D41526889FBD8827616A7F5BF6F3C56</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E5F9B30DF2536217E758DD95FF1FB4D4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPCard.m</string>
 			<key>path</key>
-			<string>Firebase.xcconfig</string>
+			<string>Stripe/STPCard.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E8B534D15D2B25919ACD898217266891</key>
+		<key>E60FA42EEC3ECC48701DB55986D25D69</key>
 		<dict>
 			<key>fileRef</key>
-			<string>85FE7BFEAA7B743553B973A7168CDD98</string>
+			<string>4901B5E71576D19314F818F3A4DAB3D3</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1483,38 +4025,368 @@
 				</array>
 			</dict>
 		</dict>
-		<key>F56CE447D2542B744EB0DA47C71E6EDD</key>
+		<key>E691CC219CBB61B43E92D18850ACB704</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>B870B24C59D78DF34E50CD8E9DB3800F</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>Pods</string>
+			<string>stp_card_visa.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_visa.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>FCDF2535463133900325F78E576B07E8</key>
+		<key>E87486F714B7B79FF5D79F42F66F2A94</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>3C7CA58E3DA234AA2574549CD49238A7</string>
-				<string>E6BB016D3ABEBF694D68538838DE8DA0</string>
-				<string>91C0143DCE5A276FD546BC307BA6384A</string>
-				<string>104481390B1098325AD2AFB70FC78878</string>
-				<string>A35E3E3F0CCA6B0B0A5E20810C135EA2</string>
-				<string>B8A3E022EEBF7EE421677F959588CBDA</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>Support Files</string>
+			<string>STPIOSCheckoutWebViewAdapter.h</string>
 			<key>path</key>
-			<string>../Target Support Files/Firebase</string>
+			<string>Stripe/Checkout/STPIOSCheckoutWebViewAdapter.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E8B534D15D2B25919ACD898217266891</key>
+		<dict>
+			<key>fileRef</key>
+			<string>42E1BCBBD4168D441E175B2230518D2E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>EA854F962E0E447E8E01EA74ED4DD740</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_placeholder@2x.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_placeholder@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EE08D805AE32EDF4D7185A1249FAFF49</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>STPCategoryLoader.m</string>
+			<key>path</key>
+			<string>Stripe/STPCategoryLoader.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EFA0AFA15BE5B67AE91C0FEF25B00177</key>
+		<dict>
+			<key>fileRef</key>
+			<string>942CE92C8160E32C413E75E7E3C82937</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>EFC19E790612B2F40D90F0668842E8F4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C74E0F71480438877F9E2D274AA181F0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>EFD475CAE7722E8D8FA12FF13F52B972</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Stripe-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EFE71982E0A9DD7962AA399E73EC106E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>NSDictionary+Stripe.h</string>
+			<key>path</key>
+			<string>Stripe/NSDictionary+Stripe.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F08190DD0C17ABBBBB4E00EEA9BAA23E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DD96A7D0FD53B297746200FA9A263BAC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F163DB6F7808B00861CFA4658F4C8DB6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>226FA3C3B323080D49DB3B729CEDBDC4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F3762A3AFD0387066DD3DB94BD4C6FEB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>FAuthData.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F3FBD6AC045BCDA58349A34F97D237A3</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>68F73983BD252920C8496928BE3DBE9D</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Stripe/Stripe-prefix.pch</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Stripe/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>9.3</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Stripe/Stripe.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>NO</string>
+				<key>PRODUCT_NAME</key>
+				<string>Stripe</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>F56AFA3F5E1502D79DC6B273D98EAA71</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BD96BD1CE638F4D17875F9B6ED6D64E1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F5AAC1A08B51DAC7050AF240FD0948E0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_discover.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_discover.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F627A100A7C13ADB39076A0C7DF34243</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>stp_card_placeholder_template.png</string>
+			<key>path</key>
+			<string>Stripe/Resources/Images/stp_card_placeholder_template.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F6E62C302CB4F1E901E93343EE93DFBE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7B92FFC367CEB4A53E243FD97EE6FAA9</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F85F44D07381D7FB932D671A4E015D7D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2EB9A366973D226152BDFE50277ABD85</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Project</string>
+				</array>
+			</dict>
+		</dict>
+		<key>F8D5BF7C871A086E4B8E2C13D940F7EE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5602B19D5EC3B26B537EE38CB39CCB56</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>F9ABCB7BC40B6E45F5531EE50BDD45CB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPAPIPostRequest.h</string>
+			<key>path</key>
+			<string>Stripe/STPAPIPostRequest.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FCD005160574C9F93643E19231065A6E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5BE8ADC9B2B035F4DDF4E7EC5B07A92B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>FE6FA0E3C1C08BCCB636B8E006967F9C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Firebase.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FEA2B84EF07CA9AC2601B29742457B60</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPFormTextField.h</string>
+			<key>path</key>
+			<string>Stripe/UI/STPFormTextField.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FEADED060F72B2DA4583F8009D98E4D1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>STPAPIClient.h</string>
+			<key>path</key>
+			<string>Stripe/PublicHeaders/STPAPIClient.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FF0B50C9E38F82E5F1E3E268AF82A2E1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>77C49D928448B31FB9A7D5AE5C8D6C4E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>FF3B0E4AF857E17DC9386CA66A160127</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7D36CF70196647EAEB0701009F8F7506</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>

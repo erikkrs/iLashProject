@@ -1,10 +1,15 @@
 PODS:
   - Firebase (2.5.1)
+  - Stripe (6.2.0):
+    - Stripe/Core (= 6.2.0)
+  - Stripe/Core (6.2.0)
 
 DEPENDENCIES:
   - Firebase
+  - Stripe
 
 SPEC CHECKSUMS:
   Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  Stripe: 275524137e6c4cc1058f6d32ece248adf30a21f9
 
 COCOAPODS: 0.39.0

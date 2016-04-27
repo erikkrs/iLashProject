@@ -14,10 +14,20 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Stripe.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2C189CCD2DDCB20C04598DCAB950501A</key>
+		<key>0A2B93C6721445B68B3DAAC265F5D778</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>63C80435432798D7E4DDA7CB76861033</key>
 		<dict>
 			<key>primary</key>
 			<true/>

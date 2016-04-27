@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9CCE5371B448190F87AC3E7B8A3F1BDBF64648B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F740C8B38E2FAED80474C5F6D7AE40D93BD6EC75" : 0,
+    "9CCE5371B448190F87AC3E7B8A3F1BDBF64648B0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F565E531-F790-4DF7-8B3C-5F2B15F9B9D9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F740C8B38E2FAED80474C5F6D7AE40D93BD6EC75" : "..",
+    "9CCE5371B448190F87AC3E7B8A3F1BDBF64648B0" : "ProjectSnowman\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ProjectSnowman",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ProjectSnowman.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mlitman\/Project_Snowman_IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9CCE5371B448190F87AC3E7B8A3F1BDBF64648B0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mlitman\/Project_Snowman.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F740C8B38E2FAED80474C5F6D7AE40D93BD6EC75"
+    }
+  ]
+}

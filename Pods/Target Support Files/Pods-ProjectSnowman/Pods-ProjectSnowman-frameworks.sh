@@ -85,7 +85,9 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-ProjectSnowman/Firebase.framework"
+  install_framework "Pods-ProjectSnowman/Stripe.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-ProjectSnowman/Firebase.framework"
+  install_framework "Pods-ProjectSnowman/Stripe.framework"
 fi

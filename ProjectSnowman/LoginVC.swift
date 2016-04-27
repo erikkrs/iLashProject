@@ -52,7 +52,12 @@ class LoginVC: UIViewController
                 let vc = self.storyboard?.instantiateViewControllerWithIdentifier("ProviderVC") as! ProviderVC
                 self.presentViewController(vc, animated: true, completion: nil)
             }
-            
+            else if(snapshot.value as! String == "admin")
+            {
+                let vc = self.storyboard?.instantiateViewControllerWithIdentifier("AdminVC") as! AdminVC
+                self.presentViewController(vc, animated: true, completion: nil)
+            }
+
         }
     }
     
