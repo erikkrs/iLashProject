@@ -12,6 +12,8 @@ import Firebase
 class Core: NSObject
 {
     static var storyboard : UIStoryboard!
+    static var userProfileDictionary : [String: String]! = nil
+    static var providerCut = 0.8
     
     static var fireBaseRef = Firebase(url: "https://project-snowman.firebaseio.com/")
     

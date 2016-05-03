@@ -21,40 +21,35 @@ class UserServiceListTVC: UITableViewController
         super.viewDidLoad()
         
         let ref = Core.fireBaseRef.childByAppendingPath("service_requests")
-        ref.observeSingleEventOfType(.Value) { (snapshot: FDataSnapshot!) in
-            let dictionary = snapshot.value as! NSDictionary
-            for key in dictionary
+        ref.observeEventType(.ChildAdded) { (snapshot: FDataSnapshot!) in
+            let datum = snapshot.value as! NSDictionary
+            let user = datum["user"] as! String
+            if(user == Core.fireBaseRef.authData.uid)
             {
-                let datum = key.value as! NSDictionary
-                let user = datum["user"] as! String
-                if(user == Core.fireBaseRef.authData.uid)
+                let req = ServiceRequest()
+                req.key = snapshot.key
+                req.completed = datum["completed"] as! Bool
+                req.cost = datum["cost"] as! Int
+                req.instructions = datum["instructions"] as! String
+                req.name = datum["name"] as! String
+                req.provider = datum["provider"] as! String
+                req.size = datum["size"] as! String
+                req.type = datum["type"] as! String
+                req.user = user
+                if(req.provider == "n/a")
                 {
-                    let req = ServiceRequest()
-                    req.key = key.key as! String
-                    req.completed = datum["completed"] as! Bool
-                    req.cost = datum["cost"] as! Int
-                    req.instructions = datum["instructions"] as! String
-                    req.name = datum["name"] as! String
-                    req.provider = datum["provider"] as! String
-                    req.size = datum["size"] as! String
-                    req.type = datum["type"] as! String
-                    req.user = user
-                    if(req.provider == "n/a")
-                    {
-                        self.pending.append(req)
-                    }
-                    else if(req.completed.boolValue)
-                    {
-                        self.completed.append(req)
-                    }
-                    else
-                    {
-                        self.incomplete.append(req)
-                    }
-                    self.all.append(req)
-                    self.tableView.reloadData()
+                    self.pending.append(req)
                 }
-
+                else if(req.completed.boolValue)
+                {
+                    self.completed.append(req)
+                }
+                else
+                {
+                    self.incomplete.append(req)
+                }
+                self.all.append(req)
+                self.tableView.reloadData()
             }
         }
         

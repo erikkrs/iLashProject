@@ -6,5 +6,6 @@ use_frameworks!
 target 'ProjectSnowman' do
 pod 'Firebase'
 pod 'Stripe'
+pod 'Alamofire'
 end
 

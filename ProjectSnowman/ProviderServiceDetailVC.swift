@@ -7,15 +7,17 @@
 //
 
 import UIKit
+import Firebase
 
 class ProviderServiceDetailVC: UIViewController {
+    
+    @IBOutlet weak var addressLabel: UILabel!
     @IBOutlet weak var completeButton: UIButton!
     @IBOutlet weak var claimButton: UIButton!
     @IBOutlet weak var instructionsLabel: UILabel!
     @IBOutlet weak var instructionsTextView: UITextView!
     @IBOutlet weak var sizeValueLabel: UILabel!
-    @IBOutlet weak var costValueLabel: UILabel!
-    @IBOutlet weak var completedValueLabel: UILabel!
+    @IBOutlet weak var offerValueLabel: UILabel!
     @IBOutlet weak var typeValueLabel: UILabel!
     @IBOutlet weak var navBar: UINavigationBar!
     var req : ServiceRequest!
@@ -23,10 +25,14 @@ class ProviderServiceDetailVC: UIViewController {
     override func viewDidLoad()
     {
         super.viewDidLoad()
-    }
-
-    override func viewWillAppear(animated: Bool)
-    {
+        //get the profile of the user so we can show the address
+        let ref = Core.fireBaseRef.childByAppendingPath("profile").childByAppendingPath(req.user)
+        ref.observeSingleEventOfType(.Value) { (snapshot: FDataSnapshot!) in
+            let profile = snapshot.value as! [String : String]
+            let address = "\(profile["first_name"]!) \(profile["last_name"]!)\n\(profile["street1"]!)\n\(profile["street2"]!)\n\(profile["city"]!), \(profile["state"]!) \(profile["zip"]!)"
+            self.addressLabel.text = address
+        }
+        
         if(req.provider == "n/a")
         {
             claimButton.hidden = false
@@ -47,12 +53,11 @@ class ProviderServiceDetailVC: UIViewController {
             instructionsTextView.text = req.instructions
         }
         sizeValueLabel.text = req.size
-        costValueLabel.text = "\(req.cost)"
-        completedValueLabel.text = "\(req.completed)"
+        offerValueLabel.text = "$\((Double(req.cost)/100.0)*Core.providerCut)"
         typeValueLabel.text = req.type
         navBar.topItem?.title = req.name
     }
-    
+
     @IBAction func claimButtonPressed(sender: AnyObject)
     {
         let vc = UIAlertController(title: "Claim Confirmation", message: "Are you sure you want to claim this service request?", preferredStyle: .Alert)
